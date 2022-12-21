@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://www.alxafrica.com/" alt="alx_africa logo">
-</p>
-
 # Simple Shell project 0x16.c - Shellfh -
 This is a simple UNIX command interpreter based on bash and Sh.
 ## Overview
@@ -262,6 +258,7 @@ $
 ## Authors & Copyrights
 
 * Ofoma Uchenna <[Adophilus](https://github.com/Adophilus)>
+* Daniel Osariemen [kyilax](https://github.com/kyilax)
 
 ## More information
 
